@@ -1,0 +1,17 @@
+{
+  "name": "create-spritesheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "Gasegamer",
+  "license": "ISC",
+  "dependencies": {
+    "free-tex-packer-core": "^0.3.4",
+    "resize-optimize-images": "^1.1.2",
+    "trim-image": "^1.0.3"
+  }
+}
